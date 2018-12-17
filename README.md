@@ -1,10 +1,10 @@
-# gatsby-starter-hello-world
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site
+# Colloquy
+#### a blog experiment in gatsby
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
+---
+Under Dev
+
 
 ## Running in development
+`npm install`
 `gatsby develop`
